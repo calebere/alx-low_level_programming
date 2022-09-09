@@ -1,10 +1,8 @@
 #include <stdio.h>
 /**
- 	* main - Entry point
- 	* 
-	* Description: 'using printf to print output'
-	*
- 	* Return: always 0
+	* main - Entry point
+	* Description: 'using the printf funtion to print and return 0'
+	* Return: always 0
 */
 
 int main(void)
