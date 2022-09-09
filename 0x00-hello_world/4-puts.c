@@ -3,10 +3,12 @@
    * main - Entry point
    *
    * Return: always 0
+
 */
+
 int main(void)
 {
-	puts("\"Programing is like multilingual puzzle");
+	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 
 }	
