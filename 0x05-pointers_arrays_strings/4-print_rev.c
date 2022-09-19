@@ -19,6 +19,6 @@ void print_rev(char *s)
 	}
 
 	for (count--; count >= 0; count--)
-		_putchar(s[coun]);
-	putchat('\n');
+		_putchar(s[count]);
+	putchar('\n');
 }
