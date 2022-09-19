@@ -20,9 +20,5 @@ void print_rev(char *s)
 
 	for (count--; count >= 0; count--)
 		_putchar(s[count]);
-<<<<<<< HEAD
 	_putchar('\n');
-=======
-	putchar('\n');
->>>>>>> 9eaa9a69761462e57b98b764e3eb0cb88eef16a5
 }
