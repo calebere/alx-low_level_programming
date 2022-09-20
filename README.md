@@ -1,1 +1,1 @@
-projects on C programming language
+file contains low level command and functions on C by ALX
