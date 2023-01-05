@@ -1,8 +1,8 @@
+#include "hash_tables.h"
+
 /*
  * File: 0-hash_table_create.c
  */
-
-#include "hash_tables.h"
 
 /**
  * hash_table_create - Creates a hash table.
